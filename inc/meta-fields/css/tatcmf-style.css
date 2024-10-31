@@ -1,0 +1,60 @@
+.field-row {
+	display: block;
+	overflow: hidden;
+	margin-bottom: 14px;
+	padding: 15px 12px;
+	background-color: #fafafa;
+}
+.field-col-sm-12, 
+.field-col-12,
+.field-col-8,
+.field-col-4 {
+	float: left;
+}
+.field-col-sm-12, 
+.field-col-12 {
+	width: 100%;
+}
+.field-col-8 {
+	width: 80%;
+}
+.field-col-4 {
+	width: 20%;
+}
+.field-row label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 15px;
+}
+.hide-if-no-js .delete-custom-img {
+	margin-top: 15px;
+}
+.tatCmf-input-control {
+	border: 1px solid #eee;
+}
+.single-radio {
+    display: inline-block;
+}
+.single-radio:last-child {
+	margin-left: 20px;
+}
+.single-radio .tatCmf-radio-field {
+	margin-top: 1px;
+    margin-left: 4px;
+}
+.info-wrapper.danger {
+	background: #f8d7da;
+    padding: 8px;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    border-radius: 2px;
+    width: 300px;
+}
+.emoji-copy {
+	cursor: pointer;
+	float: right;
+}
+.green-color {
+	color: #008000;
+	transform: scale(1.2);
+}
